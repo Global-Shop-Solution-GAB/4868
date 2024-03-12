@@ -1,0 +1,10 @@
+Program.Sub.Preflight.Start
+Program.Sub.Preflight.End
+
+Program.Sub.Main.Start
+Variable.Passed.000020.Set(0)
+Variable.Passed.000021.Set(0)
+Variable.Passed.000023.Set(0)
+Variable.Passed.000025.Set(1)
+Variable.Passed.000027.Set(0)
+Program.Sub.Main.End
